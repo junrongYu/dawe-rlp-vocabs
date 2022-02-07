@@ -39,7 +39,7 @@ See the [authentication section](https://docs.iterative.ai/PyDrive2/quickstart/#
 
 Under APIs and Services, create a new Service Account. Create a new key for the Service Account. Download the key as a JSON file and save it as `client_secrets.json`. 
 
-Ensure `client_secrets.jsonn` is in the root of this project's directory.
+Ensure `client_secrets.json` is in the root of this project's directory.
 
 ### Run the script
 Run the Python script to convert the data in the Excel files to RDF. The output is RDF serialised as Turtle.
